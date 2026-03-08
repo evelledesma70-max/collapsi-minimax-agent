@@ -36,3 +36,18 @@ Este proyecto implementa los siguientes conceptos de IA:
 ---
 
 # Estructura del Proyecto
+
+
+# Resultados del Benchmark
+
+Para evaluar el rendimiento del agente de inteligencia artificial se realizaron múltiples ejecuciones del algoritmo Minimax con poda Alpha-Beta.
+
+El benchmark mide:
+
+- Nodos explorados
+- Profundidad alcanzada
+- Tiempo de ejecución
+- Resultado de la partida
+
+Los resultados completos pueden encontrarse en el archivo:
+
